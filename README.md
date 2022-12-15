@@ -1,1 +1,1 @@
-# kommi
+# TP (transportation problem)
